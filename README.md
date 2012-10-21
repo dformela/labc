@@ -1,4 +1,9 @@
-labc
-====
+# Laborki z C
 
-Zadania z Laboratorium w C
+Szablon programu *hello world*:
+
+'''c
+int main() {
+    printf("hello world\n");
+
+    return 0;
